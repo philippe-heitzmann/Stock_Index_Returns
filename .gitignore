@@ -1,0 +1,4 @@
+*.csv
+
+.ipynb_checkpoints
+.ipynb_checkpoints/Analyzing_SP500_Returns-checkpoint.ipynb
